@@ -1,0 +1,7 @@
+{
+  "name": "FreAni-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
